@@ -48,7 +48,7 @@ header .container{
     /*filme principal*/
     .filme-principal {
             font-size:20px;
-            background: url('img/capa.jpg');
+            background: url('capa.jpg');
 
             height: 700px;
             background-size:cover ;
